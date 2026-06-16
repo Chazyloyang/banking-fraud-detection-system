@@ -23,7 +23,7 @@ pip install pandas matplotlib seaborn numpy scikit-learn imbalanced-learn xgboos
 ```
 
 ## Usage
-1.  **Download the dataset**: Obtain the `creditcard.csv` file from the [Kaggle Credit Card Fraud Detection]((https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv)) dataset and place it in the `/content/` directory of your Colab environment.
+1.  **Download the dataset**: Obtain the `creditcard.csv` file from the [Kaggle Credit Card Fraud Detection]([https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv]) dataset and place it in the `/content/` directory of your Colab environment.
 2.  **Run the notebook**: Execute all cells in the Jupyter notebook sequentially.
 
 ## Exploratory Data Analysis (EDA) Highlights
