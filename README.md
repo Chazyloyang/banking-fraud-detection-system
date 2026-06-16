@@ -24,7 +24,8 @@ pip install pandas matplotlib seaborn numpy scikit-learn imbalanced-learn xgboos
 
 ## Usage
 1.  **Download the dataset**: Obtain the `creditcard.csv` file from the [Kaggle Credit Card Fraud Detection]([https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv]) dataset and place it in the `/content/` directory of your Colab environment.
-2.  **Run the notebook**: Execute all cells in the Jupyter notebook sequentially.
+2.  https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv
+3.  **Run the notebook**: Execute all cells in the Jupyter notebook sequentially.
 
 ## Exploratory Data Analysis (EDA) Highlights
 -   **Extreme Class Imbalance**: Only about 0.38% of transactions were fraudulent, necessitating techniques like SMOTE for balancing the training data.
